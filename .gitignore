@@ -1,0 +1,11 @@
+.vs/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.db
+*.recipe
+*.bin
+*.iobj
+*.ipdb
